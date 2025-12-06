@@ -1,0 +1,139 @@
+
+.sidebar{
+
+    background-color:#31025C;
+    color: white;
+    margin-top: 30px;
+}
+
+.Hello{
+
+    display: flex;
+    justify-content: center;
+}
+
+.sidepic{
+    width: 120px;
+}
+
+.Ouss{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    text-align: center;
+}
+
+
+.sidebar_icon {
+
+    /* width: 40px; */
+}
+
+
+.Dash_borad{
+    /* width: 30px; */
+}
+
+.Dashborad_text{
+
+    font-weight: bold;
+    /* font-size: 24px; */
+}
+
+
+.Social{
+    font-size: 25px;
+    font-weight: normal;
+    color: #a8eb22;
+}
+
+ .Yellow_green{
+
+    background-color: hsl(80, 98%, 64%);
+ }
+
+
+.catg{
+    width: 40px;
+}
+
+.Feed{
+  
+      position: absolute;
+      padding-top: 23px;
+      font-size: 18px;
+      font-weight: bold;
+      font-size: 23px;
+      color: black;
+}
+
+
+.Groups_icon{
+    /* width: 40px; */
+}
+
+.Groups_text{
+    position: absolute;
+    padding-top: 24px;
+    /* font-size: 23px; */
+    /* font-weight: bold; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.chat_icon{
+    /* width: 30px; */
+}
+
+.chat_text{
+  
+     position: absolute;
+     padding-top: 12px;
+     /* font-size: 23px; */
+}
+
+.member{
+
+    /* width: 30px; */
+}
+
+.member_text{
+    
+    /* font-size: 23px; */
+    padding-top: 14px;
+}
+
+.vector_icon {
+    /* width: 23px; */
+}
+
+.vector_text{
+    /* font-size: 22px; */
+}
+
+.calender_text{
+
+    position: absolute;
+    padding-top: 17px;
+    /* font-size: 20px; */
+    /* font-weight: bold; */
+}
+
+.Learing{
+
+    padding-top: 50px;
+    font-size: 24px;
+    color: #a8eb22;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.Academy{
+
+     position: absolute;
+     padding-top: 20px;
+}
+
+
+
+

@@ -1,0 +1,61 @@
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.log{
+
+    width: 110px;
+}
+.btns{
+
+    width: 100px;
+    height: auto;
+    background-color: #ef95df;
+    border-radius: 10px;
+    color:#2f364f;
+    font-weight: bold;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.lead{
+
+    font-size: 20px;
+    font-weight: bold;
+    color: #302865;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Empty{
+
+    font-weight: bold;
+}
+.Empty:hover{
+
+    /* background-color: #babdbf; */
+}
+
+
+.like{
+
+    display: flex;
+}
+
+.imgs{
+
+    width: 30px;
+    position: relative;
+    bottom: 10px;
+    justify-content: space-between;
+}
+
+
+.imgd{
+
+    width: 30px;
+    position: relative;
+    bottom: 15px;
+}
